@@ -1,41 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas - by Gabriel Alves Guimarães
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Gabriel Guimarães aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO nos convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+## 🎯 Bora Pro Desafio!? 💪🤓
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# HeyGen and D-ID - The future is here - Hello, world!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto faz parte de um desafio fomentado pela DIO durante o Bootcamp "CAIXA - IA Generativa com Microsoft Copilot" e traz a seguinte questão: Você saberia diferenciar o conteúdo criado por um humano do que foi criado por uma IA? O conteudo apresentado neste repositório foi criado por IAs como o gamma.app, D-ID e o HeyGen e eu te pergunto, você conseguiria distinguir o que é e o que não é real? Ou o que foi feito com IA ou sem? Confesso que eu não... 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+. gamma.app
+. D-ID
+. HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+. A apresentação em PDF foi criada utilizando o gamma.app com apenas um prompt simples solicitando conteúdo sobre as técnologias usadas no HeyGen e no D-ID
+. O vídeo 1 foi criado utilizando o HeyGen, utilizando contéudo grátis disponibilizado na plataforma
+. O vídeo 2 foi criado utilizando o D-ID, também utilizando o conteúdo grátis disponibilizado na plataforma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com os contéudos criados seria possível criar um podcast com 2 professores trazendo os tópicos abordados no slide desenvolvido, em mais de um idioma se necessário, facilitando o alcance do aprendizado e superando a barreira linguística que por muitas vezes impede ou retarda o processo de aprendizado.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um desafio interessante, até então eu não tinha experiência com a utilização destas ferramentas de IA, achei extraordinário o poder que já temos em nossas mãos e como podemos aplicá-lo para resolver problemas reais como o da educação, afinal, quem nunca teve dificuldades para entender um assunto porque ele não estava em seu idioma nativo, certo?
 ```
 
 ### Exemplos e Insigths
